@@ -12,6 +12,7 @@ Analyze sales trends over time
 Understand customer purchasing patterns
 Create an interactive and user-friendly dashboard
 Convert raw data into actionable business insights
+
 🛠️ Tools & Technologies
 Microsoft Excel
 PivotTables
@@ -29,14 +30,14 @@ The dashboard includes analysis of:
 Total Sales
 Total Orders
 Total Quantity Sold
-Average Order Value
-Sales by Category
+Sales by Category and Sub Category
 Sales by Product
 Sales by Region/Location
 Monthly/Yearly Sales Trends
 Top-Performing Products
 Customer/Order Analysis
 Interactive Filters and Slicers
+
 📂 Project Structure
 Ecommerce-Sales-Analysis-Dashboard/
 │
@@ -44,6 +45,7 @@ Ecommerce-Sales-Analysis-Dashboard/
 ├── README.md
 └── screenshots/
     └── dashboard.png
+    
 🔍 Key Analysis
 
 The dashboard can be used to identify:
@@ -54,6 +56,7 @@ Products generating higher sales
 Changes in sales over different time periods
 Regional sales performance
 Customer and order trends
+
 💡 Skills Demonstrated
 
 This project demonstrates practical skills in:
